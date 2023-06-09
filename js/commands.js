@@ -9,10 +9,10 @@ whois = [
 ];
 
 
-var github = "https://github.com/Recoo31";
-var insta = "https://www.instagram.com/Recoo33_/";
-var youtubee = "https://www.youtube.com/c/Recoo31/"
-var spo = "https://open.spotify.com/user/31o7s4nzotukrxkjirmy6hoyg3p4?si=b8181d594b3543af"
+var github = "https://github.com/betaWojo";
+var insta = "https://www.instagram.com/om3r.dw/";
+var youtubee = "https://youtube.com/@betaWojtek/"
+var spo = "https://open.spotify.com/user/31pm6ipozqvn2aqfjjthxrz2xslq?si=e63f21fd400c42f6"
 social = [
   "<br>",
   'Youtube        <a href="' + youtubee + '" target="_blank">youtube/c/Recoo31' + "</a>",
@@ -52,7 +52,7 @@ var sarki =
 help = [
   "<br>",
   '<span class="command">Command:</span>         Just write "whois" or "social".',
-  '<span class="command">whois</span>    =>      Kim Bu Reco 😁?',
+  '<span class="command">whois</span>    =>      Kim Bu wojtek ?',
   '<span class="command">social</span>   =>      Sosyal Medya Hesaplarım',
   '<span class="command">random</span>   =>      Random Şarkı(daha kodlamadım)',
   "<br>",
