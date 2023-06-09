@@ -2,9 +2,9 @@
 whois = [
   "<br>",
   "16 yaşındayım, süperim 🤗",
-  "Mersin'de yaşıyorum ve lise öğrencisiyim",
+  "Konyada'de yaşıyorum ve lise öğrencisiyim",
   "Şuana kadar bir çok dilde bir çok bot ve checker kodladım",
-  "Az çok bildiğim diller: C#, Lua, Python",
+  "Az çok bildiğim diller: C#,Python",
   "<br>"
 ];
 
@@ -15,10 +15,10 @@ var youtubee = "https://youtube.com/@betaWojtek/"
 var spo = "https://open.spotify.com/user/31pm6ipozqvn2aqfjjthxrz2xslq?si=e63f21fd400c42f6"
 social = [
   "<br>",
-  'Youtube        <a href="' + youtubee + '" target="_blank">youtube/c/Recoo31' + "</a>",
-  'Instagram      <a href="' + insta + '" target="_blank">instagram/recoo33_' + '</a>',
-  'Spotify        <a href="'+spo+'"target="_blank">spotify/Recoo',   
-  'Github         <a href="' + github + '" target="_blank">github/Recoo31' + "</a>",   
+  'Youtube        <a href="' + youtubee + '" target="_blank">youtube/c/betaWojtek' + "</a>",
+  'Instagram      <a href="' + insta + '" target="_blank">instagram/om3r.dw' + '</a>',
+  'Spotify        <a href="'+spo+'"target="_blank">spotify/Wojtek',   
+  'Github         <a href="' + github + '" target="_blank">github/betaWojo' + "</a>",   
   "<br>"
 ];
 
